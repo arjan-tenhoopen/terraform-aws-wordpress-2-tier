@@ -42,13 +42,7 @@ tags = {
         Department = "IT"
 }
 ```
-# How to
 
-Add the module source 
-```
-module "two-tier-wordpress" {
-  source = "terraform-aws-wordpress-2-tier/"
-}
 ```
 
 Variables are defined in the terraform.tfvars file
